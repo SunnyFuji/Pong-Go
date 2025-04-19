@@ -1,2 +1,2 @@
 # Pong-Go
-A pong gam in Go
+A pong game in Go
