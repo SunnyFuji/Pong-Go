@@ -22,7 +22,8 @@ To run Pong-Go on your machine, just clone and play:
 ```bash
 git clone https://github.com/SunnyFuji/pong-go.git
 cd pong-go
-go run main.go```
+go run main.go
+```
 
 No need for fancy engines or 2GB frameworks — just Go.
 
