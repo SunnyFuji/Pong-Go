@@ -30,11 +30,11 @@ No need for fancy engines or 2GB frameworks — just Go.
 ---
 
 🎯 Controls
-.Player 1: `W` (up), `S` (down)
+. Player 1: `W` (up), `S` (down)
 
-.Player 2: `↑` (up), `↓` (down)
+. Player 2: `↑` (up), `↓` (down)
 
-.Quit: Close the window like a mortal
+. Quit: Close the window like a mortal
 
 ---
 
